@@ -8,7 +8,7 @@ Tested Bluetooth Keyboards, Mice and ESP Chiptype combinations
 
 Your combination here? Edit this table and make a pull request!
 
-# Other Notes
+## Other Notes
 Working under latest ESP-IDF v5.3.0 (not v5.3.3 or higher), compiled on Visual Studio Code. Multi-device support may not work on lower versions of the SDK.
 
 **Developed and tested on the ESP32 DevKit rev 1 board, other variants may not work!**
